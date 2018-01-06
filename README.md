@@ -4,7 +4,7 @@ A preset with TSLint rules for development of Angular applications. The preset c
 
 This package is based on the tslint configuration of [Angular CLI](https://github.com/angular/angular-cli) and aligns with the [Angular style guide](https://angular.io/styleguide).
 
-**Note:** there are few more rules added on top of the Angular CLI configuration.
+**Note:** there are few more rules added on top of the Angular CLI configuration:
 
 ```json
 "angular-whitespace": [true, "check-interpolation"],
