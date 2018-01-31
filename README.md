@@ -2,7 +2,7 @@
 
 A preset with TSLint rules for development of Angular applications. The preset contains both, tslint core rules, and [codelyzer](https://github.com/mgechev/codelyzer) rules, which are going to perform Angular specific linting.
 
-This package is based on the tslint configuration of [Angular CLI](https://github.com/angular/angular-cli) and aligns with the [Angular style guide](https://angular.io/styleguide).
+This package is based on the tslint configuration of [Angular CLI](https://github.com/angular/angular-cli) and aligns with the [Angular style guide](https://angular.io/guide/styleguide).
 
 **Note:** there are few more rules added on top of the Angular CLI configuration:
 
