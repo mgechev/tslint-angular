@@ -1,6 +1,6 @@
 {
   "name": "tslint-angular",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "tslint preset for Angular",
   "main": "./tslint.json",
   "repository": {
@@ -18,7 +18,7 @@
     "url": "https://github.com/mgechev/tslint-angular/issues"
   },
   "homepage": "https://github.com/mgechev/tslint-angular#readme",
-  "dependencies": {
+  "peerDependencies": {
     "codelyzer": "^5.0.0",
     "tslint": "^5.16.0"
   }
