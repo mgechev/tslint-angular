@@ -65,7 +65,6 @@
     "variable-name": false,
     "whitespace": [true, "check-branch", "check-decl", "check-operator", "check-separator", "check-type"],
 
-    "angular-whitespace": [true, "check-interpolation"],
     "use-component-view-encapsulation": true,
     "contextual-lifecycle": true,
     "template-banana-in-box": true,
