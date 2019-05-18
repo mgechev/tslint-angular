@@ -67,7 +67,6 @@
 
     "use-component-view-encapsulation": true,
     "contextual-lifecycle": true,
-    "template-banana-in-box": true,
     "no-output-on-prefix": true,
     "no-inputs-metadata-property": true,
     "no-outputs-metadata-property": true,
@@ -75,8 +74,11 @@
     "no-input-rename": true,
     "no-output-rename": true,
     "use-lifecycle-interface": true,
+    "use-pipe-decorator	": true,
     "use-pipe-transform-interface": true,
     "component-class-suffix": true,
-    "directive-class-suffix": true
+    "directive-class-suffix": true,
+    "template-banana-in-box": true,
+    "template-no-negated-async": true
   }
 }
