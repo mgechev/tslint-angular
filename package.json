@@ -1,6 +1,6 @@
 {
   "name": "tslint-angular",
-  "version": "2.0.3",
+  "version": "3.0.0",
   "description": "tslint preset for Angular",
   "main": "./tslint.json",
   "repository": {
