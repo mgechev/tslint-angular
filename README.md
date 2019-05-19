@@ -4,16 +4,9 @@ A preset with TSLint rules for development of Angular applications. The preset c
 
 This package is based on the tslint configuration of [Angular CLI](https://github.com/angular/angular-cli) and aligns with the [Angular style guide](https://angular.io/guide/styleguide).
 
-**Note:** there are few more rules added on top of the Angular CLI configuration:
+**Note:** there are few more rules added on top of the Angular CLI configuration.
 
-```json
-"angular-whitespace": [true, "check-interpolation"],
-"use-view-encapsulation": true,
-"contextual-life-cycle": true,
-"banana-in-box": true,
-```
-
-# How to use?
+## How to use?
 
 ```bash
 npm i tslint-angular --save-dev
@@ -33,6 +26,7 @@ After that configure `tslint.json` to use the preset:
 
 **Notice** that `directive-selector` and `component-selector` are configurable so you need to add them manually in the `rules` section of `tslint.json`.
 
-# License
+## License
 
 MIT
+
