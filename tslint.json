@@ -74,7 +74,7 @@
     "no-input-rename": true,
     "no-output-rename": true,
     "use-lifecycle-interface": true,
-    "use-pipe-decorator	": true,
+    "use-pipe-decorator": true,
     "use-pipe-transform-interface": true,
     "component-class-suffix": true,
     "directive-class-suffix": true,
