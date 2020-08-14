@@ -1,6 +1,6 @@
 {
   "name": "tslint-angular",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "tslint preset for Angular",
   "main": "./tslint.json",
   "repository": {
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/mgechev/tslint-angular#readme",
   "peerDependencies": {
-    "codelyzer": "^5.0.0",
-    "tslint": "^5.16.0"
+    "codelyzer": ">=5.0.0",
+    "tslint": ">=5.16.0"
   }
 }
